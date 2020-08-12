@@ -1,0 +1,14 @@
+
+.logo{
+    width: 90px;
+    height: 70px;
+}
+
+.tarjetas{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(202, 148, 48);
+}
+h2{
+    text-align: center;
+}
